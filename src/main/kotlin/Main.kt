@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
         }
         return result
     }
-    println(calculator(5, '/', 0))
+    println(calculator(5, '-', 0))
 
     var arrayName = arrayOf("Чынгыз", "Алексей", "Андрей", "Алинур", "Максим", "Бектур", "Тимур", "Настя", "Алим")
     var capsName = "АЛМАНБЕТ"
